@@ -2,7 +2,7 @@
 public class pruevaDeConflictos {
 
 	public static void main(String[] args) {
-		String hola="feo";
+		String hola="atun";
 
 	}
 
